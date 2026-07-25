@@ -1,4 +1,4 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to the maintained Geometry Dash TMWCL repo!
 
 # FAQ
 
@@ -8,7 +8,7 @@
 
 Can I use the Shitty List template?
 
-- I mean, sure. just make sure you give credit somewhere and make sure you state
+- I mean, sure. just make sure you give credit to us and the shitty list somewhere and make sure you state
   that you're not affiliated with the shitty list.
 
 The website isnt loading! What can I do?
@@ -59,52 +59,5 @@ Can i submit Multiple levels on 1 video?
 
 - Yes
 
----
-
-## More Coming Soon!
-
-# List Staff Team
-
----
-
-## Owners:
-
-- Bluestone
-- iRaily
-
----
-
-## List Admins:
-
-- AcropolisBoy
-- SupaX\_
-- attrixia
-
-## Server Administrators:
-
-- JustCrust
-- Microwaveee
-
----
-
-## List Helpers:
-
-- Davine
-- hex
-- KylashTheKiller
-
----
-
-## Server Moderators:
-
-- LBoke
-- frigusterio
-- Nolife
-
----
-
-## Repo Maintainers:
-
-- Electro
 - Prometheus
 - Emonadeo
